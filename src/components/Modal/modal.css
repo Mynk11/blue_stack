@@ -1,0 +1,31 @@
+
+.ant-modal-header{
+    display:none;
+}
+.ant-modal-close{
+    display: none;
+}
+
+.width_100{
+    width:100%;
+}
+.text_left{
+    float: left;
+}
+.text_right{
+    float: right;
+}
+.clearBoth{
+    clear: both;
+}
+.content_center{
+    text-align: center;
+}
+.pad5{
+    padding:5px;
+    background: white;
+    border: 2px solid #181B34;
+}
+.padding_top_bottom_3{
+  padding:3% 0%;
+}

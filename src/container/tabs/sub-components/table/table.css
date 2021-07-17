@@ -1,0 +1,23 @@
+div.ant-picker-input> input{
+    display: none;
+}
+
+div.ant-picker{
+    border:none
+}
+span.ant-picker-suffix {
+line-height: 2.5;
+}
+
+.v_align_top{
+    vertical-align: top;    
+    
+}
+
+.m_right_2{
+    margin-right: 2%;
+}
+
+ul.ant-pagination{
+    display: none;
+}

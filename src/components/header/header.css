@@ -1,0 +1,24 @@
+.custom_header{
+    background: #1f2640;
+    position: fixed;
+    transition: .3s ease-in-out;
+    height: 7%;
+    width:100%;
+    text-align: start;
+    display: flex;
+   padding:0.4% 4% 0% 10%;
+}
+.custom_name{
+    color:white
+    
+}
+.custom_sub_heading{
+    color:#64b305;
+    display:block
+}
+.align_self{
+  padding-left:70%
+}
+span.ant-select-arrow{
+    display: none;
+}
